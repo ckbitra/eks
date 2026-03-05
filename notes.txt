@@ -1,0 +1,3 @@
+EKS Upgrade
+
+How to upgrade Amazon EKS Cluster to 1.33 that was configured using terraform.
